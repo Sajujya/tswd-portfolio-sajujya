@@ -1,15 +1,14 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Sajujya Gangopadhyay TSWD Portfolio
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://sajujya.github.io/tswd-portfolio-sajujya/)
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+Hi  everyone! 
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at Carnegie Mellon University! I hope to work on data visualizations that focus on public policy issues, especially at the intersection of immigration and how it affects labor markets around the world. 
+This is my public portfolio for Telling Stories with Data at Carnegie Mellon University! I hope to work on data visualizations that focus on public policy issues, especially at the intersection of immigration and how it affects labor markets around the world. For our reference, here are the links to this page, and my repository!
+
+- Web page URL: [Link to this page](https://sajujya.github.io/tswd-portfolio-sajujya/)
+- This repository: [Link to my repository](https://github.com/Sajujya/tswd-portfolio-sajujya)
 
 # About me
-Hi!  I am Sajujya, a graduate student in the MSPPM - DA program at CMU. I am originally from India, where I have experience as a policy research analyst! Over the summer, I interned for a management consulting firm in their Labor and Employment practice, where my work revolved around identifying and correcting hiring, pay and reduction in force disparities across racial and socio-economic groups for Fortune 500 companies who were undergoing civil and class action lawsuits. 
+I am Sajujya, a graduate student in the MSPPM - DA program at CMU. I am originally from India, where I have experience as a policy research analyst! Over the summer, I interned for a management consulting firm in their Labor and Employment practice, where my work revolved around identifying and correcting hiring, pay and reduction in force disparities across racial and socio-economic groups for Fortune 500 companies who were undergoing civil and class action lawsuits. 
 
 # What I hope to learn
 I have had previous experience using Tableau. Therefore I want to use this course to hone my skills in visualization, specifically using colors and graphics to create clear, compelling and intuitive graphics. Below are some of the skills I want to take away from the class:
