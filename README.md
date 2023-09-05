@@ -6,6 +6,7 @@ This is my public portfolio for Telling Stories with Data at Carnegie Mellon Uni
 
 - Web page URL: [Link to this page](https://sajujya.github.io/tswd-portfolio-sajujya/)
 - This repository: [Link to my repository](https://github.com/Sajujya/tswd-portfolio-sajujya)
+- [Click here to see the King County Viz](kingcounty_demo1.md)
 
 # About me
 I am Sajujya, a graduate student in the MSPPM - DA program at CMU. I am originally from India, where I have experience as a policy research analyst! Over the summer, I interned for a management consulting firm in their Labor and Employment practice, where my work revolved around identifying and correcting hiring, pay and reduction in force disparities across racial and socio-economic groups for Fortune 500 companies who were undergoing civil and class action lawsuits. 
