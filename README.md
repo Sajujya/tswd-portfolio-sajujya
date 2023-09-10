@@ -29,9 +29,10 @@ I have had previous experience using Tableau. Therefore I want to use this cours
 # Portfolio
 
 ## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, I analyzed Government Debt data from various sources and visualized them using the built-in OECD Visualizer, Flourish, and Tableau. 
+For this assignment, I analyzed Government Debt data from various sources and visualized them using the built-in OECD Visualizer, and Flourish. Let me know if you like it!
 
-2.  
+<!---
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
@@ -41,5 +42,7 @@ Here it might be helpful to include a high-level description of your final proje
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
+
+-->
 
 ---
