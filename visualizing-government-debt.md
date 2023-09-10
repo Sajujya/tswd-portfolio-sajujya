@@ -9,7 +9,7 @@ Now, let's look at the Government Debt-to-GDP Ratio visualized for these countri
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14970508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#Top 10 Countries with the Highest Government Debt-to-GDP Ratio
+# Top 10 Countries with the Highest Government Debt-to-GDP Ratio
 Now that we have a rough idea of how the Debt-toGDP Ratio of each country has changes from 1995-2021, let's look at the Top 10 countries with the highest government debt-to-GDP ratios for every year. 
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14973063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
