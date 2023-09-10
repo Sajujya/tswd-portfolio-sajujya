@@ -28,7 +28,7 @@ I have had previous experience using Tableau. Therefore I want to use this cours
 
 # Portfolio
 
-## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, I analyzed Government Debt data from various sources and visualized them using the built-in OECD Visualizer, and Flourish. Let me know if you like it!
 
 <!---
