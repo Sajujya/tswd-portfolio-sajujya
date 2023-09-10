@@ -15,12 +15,24 @@ Now that we have a rough idea of how the Debt-toGDP Ratio of each country has ch
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14973063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Explanation
-1. Here, I started with modifying the data in Excel to create a Pivot table, with the columns as the year values and the rows as the country codes. The value in each cell would now correspond to the value of the debt-to-GDP ratio for that country for that year.
 
-2. I imported this data into flourish and started off with a bar-chart race template to create the current visualization.
+1. So, at this point, I know how the debt-toGDP ratio has changed for each country from 1995-2021. However, I wanted to understand what were the worst-performing countries for each year. Since we did not yet do a country-year specific Top-N Analysis, I had the idea of creating a bar chart race graphic!
 
-3. As a sidenote, I would have wanted to color the chart differently. Ideally, I would have wanted a gray-to-red diverging color scale to get the point across that highesr ratios of debt-to-GDP are a sign of failing economies. However, current;y, I do not think that Flourish offers that flexibility in terms of colors.
+2. I started with modifying the data in Excel to create a Pivot table, with the columns as the year values and the rows as the country codes. The value in each cell would now correspond to the value of the debt-to-GDP ratio for that country for that year.
 
+3. I imported this data into flourish and started off with a bar-chart race template to create the current visualization.
+
+4. As a sidenote, I would have wanted to color the chart differently. Ideally, I would have wanted a gray-to-red diverging color scale to get the point across that highesr ratios of debt-to-GDP are a sign of failing economies. However, current;y, I do not think that Flourish offers that flexibility in terms of colors.
+
+### Findings 
+
+Among many other things, we find that
+
+1. In the late 1990s, the countries with the highest debt-to-GDP ratio were mostly European countries like Italy and Belgium.
+2. However, from early 2000s, with the opening up the Japanese econommy, their debt-to-GD ratio soared high.
+3. Additionally, the debt-to-GDP ratio for Greece increased at a tremendous speed from the early 2010s, which finally led to the Greece Debt Crisis!
+
+   
 # Comparing and Contrasing the Visualizations
 
 | Bar Chart | Grid of Line Charts | Bar Chart Race |
