@@ -1,6 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # OECD Government Debt
-This is the government debt data for various countries in 2016. 
+Let's first look at the Government Debt-to-GDP Ratio of some countries for the year 2016. 
 <iframe src="https://data.oecd.org/chart/7bbs" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bbs" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</a></iframe>
+
+
+Now, let's look at the Government Debt-to-GDP Ratio visualized for these countries between the years 1995-2016. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/14970508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
