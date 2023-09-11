@@ -35,7 +35,7 @@ Among many other things, we find that
 3. Additionally, the debt-to-GDP ratio for Greece increased at a tremendous speed from the early 2010s, which finally led to the Greece Debt Crisis!
 
    
-# Comparing and Contrasing the Visualizations
+# Comparing and Contrasting the Visualizations
 
 | Bar Chart | Grid of Line Charts | Bar Chart Race |
 | ------------- | ------------- |------------- | 
