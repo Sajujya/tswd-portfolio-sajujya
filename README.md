@@ -31,12 +31,12 @@ I have had previous experience using Tableau. Therefore I want to use this cours
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, I analyzed Government Debt data from various sources and visualized them using the built-in OECD Visualizer, and Flourish. Let me know if you like it!
 
+
+
+
+## Assignment 3&4: [Critique by Design](critique_by_design)
+For this assignment, I critiqued the visualization created by the White House in 2016 to depict the U.S. Government BVudget Spending.   
 <!---
-
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
