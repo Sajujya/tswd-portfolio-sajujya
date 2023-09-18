@@ -13,9 +13,9 @@ For this assignment, I chose to recreate the visualization below. It describes t
 
 #### Wireframing Sketches
 
-[Sketch 1](Wireframe_1.jpg)
+![Sketch 1](Wireframe_1.jpg)
 
-[Sketch 2](Wireframe_2.jpg)
+![Sketch 2](Wireframe_2.jpg)
 
 #### Recreation of the Visualization
 
