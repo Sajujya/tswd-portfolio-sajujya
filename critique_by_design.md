@@ -93,7 +93,7 @@ I need numbers. I think you need a point - Healthcare consisted of the biggest p
 #### Recreation of the Visualization
 
 
-<div align="center"> Health Care is the Obama Government's Priority! </div>
+<div align="center"> <h2> Health Care is the Obama Government's Priority! </h2> </div>
 
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/15051959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
