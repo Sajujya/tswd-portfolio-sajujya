@@ -35,9 +35,11 @@ For this assignment, I analyzed Government Debt data from various sources and vi
 
 
 ## Assignment 3&4: [Critique by Design](critique_by_design)
-For this assignment, I critiqued the visualization created by the White House in 2016 to depict the U.S. Government BVudget Spending.   
+For this assignment, I critiqued the visualization created by the White House in 2016 to depict the U.S. Government Budget Spending. 
+
+
 <!---
-## Final project
+Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
