@@ -8,7 +8,7 @@ For this assignment, I chose to recreate the visualization below. It describes t
 
 #### Why this visualization? 
 
-My primary motivation to choose this visualization as my subject for this assignment was fuelled by my desire to understand the U.S. government spending at a closer level. At the outset, the budget spending is often complicated, with a lot of moving parts and is often abstruse to the naked eye. Additionally, I was shook when I saw the [visualization]("https://obamawhitehouse.archives.gov/interactive-budget") put forth by the Obama Adminstration purely because of how dull and uninteresting it looked. Hailed as the epitome of data-driven decision -making in US political history, I honestly exepcted a better visualization to be put forth by the White House. 
+My primary motivation to choose this visualization as my subject for this assignment was fuelled by my desire to understand the U.S. government spending at a closer level. At the outset, the budget spending is often complicated, with a lot of moving parts and is often abstruse to the naked eye. Additionally, I was shook when I saw the <a href="https://obamawhitehouse.archives.gov/interactive-budget"> visualization </a> put forth by the Obama Adminstration purely because of how dull and uninteresting it looked. Hailed as the epitome of data-driven decision -making in US political history, I honestly exepcted a better visualization to be put forth by the White House. 
 
 Therefore, I took it up as a challenge to demistify a complicated topic to a layman citizen of the US who wants to understand where the current priorities of the government lie (in 2016). Additionally, the fact that the budget is closely tied to policy decisions and political priorities, critiquing and redesigning the visualization would defnitely aid me in discussions about the policy implications of budget allocation and how the presentation of data can influence public perception and decision0making. Finally, the fact that the US Government Budget data is usually publicly available made it accessible for me to work with. 
 
@@ -68,5 +68,14 @@ A: Nothing really. No changes. I think you have done justice to the graphic. Goo
 
 #### Recreation of the Visualization
 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/15051959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/15051959"><script src="https://public.flourish.studio/resources/embed.js"></script></div> <div class="flourish-embed flourish-hierarchy" data-src="visualisation/15051181"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Now, let us dive deeper into further sub-categroization of the budget spending categories. 
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/15051181"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Explanation
+
+The current version of the visualization has less clutter and offers the observer the chance to analyze each particular spending category at greater depth. The color scheme has been redone, and now every color corresponds to each spending category. 
+
+Additionally, having the figures represented exactly in the second visualization helps to understand how the sub-categories compare to each other. Finally, having the option to look at each category spearately using the dropdown helps the visual and aesthetic aspects of the viualization. 
