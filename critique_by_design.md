@@ -70,25 +70,25 @@ Q: Can you tell me what you think this is?
 
 A: This looks like a visulaization of the US Government Budget spending in 2016. The first visual is a tree map and the area represents the size of the budget used for each sector - Heatlh Care and Social Security were biggest and the second one is an interesting graph examinining the further sub-categorization.  
 
-2. Can you describe to me what this is telling you? 
+Q: Can you describe to me what this is telling you? 
 
-The second one is a specification of the first graph - it shows me the sub-category of each sector and how much of the budget was spent in each. 
+A: The second one is a specification of the first graph - it shows me the sub-category of each sector and how much of the budget was spent in each. 
 
-3. Is there anything you find surprising or confusing? 
+Q: Is there anything you find surprising or confusing? 
 
-Nothing is reall surprising / confusing. Remove the extra subcategory bars for Social Security. 
+A: Nothing is reall surprising / confusing. Remove the extra subcategory bars for Social Security. 
 
-4. Who do you think is the intended audience for this is? 
+Q: Who do you think is the intended audience for this is? 
 
-The Government. The people. 
+A: The Government. The people. 
 
-5. Do you think it is interpretable enough for the intended audience? 
+Q: Do you think it is interpretable enough for the intended audience? 
 
-Yes.
+A: Yes.
 
-6. Is there anything you would change or do differently? 
+Q: Is there anything you would change or do differently? 
 
-I need numbers. I think you need a point - Healthcare consisted of the biggest portion of the government budget for 2016, or something like that.
+A: I need numbers. I think you need a point - Healthcare consisted of the biggest portion of the government budget for 2016, or something like that.
 
 #### Recreation of the Visualization
 
