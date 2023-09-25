@@ -37,6 +37,9 @@ For this assignment, I analyzed Government Debt data from various sources and vi
 ## Assignment 3&4: [Critique by Design](critique_by_design)
 For this assignment, I critiqued the visualization created by the White House in 2016 to depict the U.S. Government Budget Spending. 
 
+## Final Project Part 1: [AI: Scaling Up Faster Than a Viral TikTok Trend!](final-project-part-one)
+Greetings, I am the architect behind this comprehensive data visualization endeavor, meticulously designed to elucidate the remarkable growth and maturation of Artificial Intelligence throughout the 21st century. My deep-seated passion for AI and data analytics has led to the creation of this project, wherein I've diligently curated and transformed complex data into a visually compelling narrative. Embark with me on an intellectual voyage that chronicles the ascendancy of AI, from its nascent stages to its current stature as a transformative force in the technological landscape. Join me in unveiling the captivating world of AI through the lens of this project!
+
 
 <!---
 Final project
