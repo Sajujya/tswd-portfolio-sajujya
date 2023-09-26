@@ -15,13 +15,19 @@ Finally, my plan is to transition into the societal implications of AI. This wou
 
 My Target Audience for this project is the general populace, and my goal is to inform them of the development of AI in the last 20 years from a variety of lenses, and the scale of that development. Additionally, my project also would aim to demistify popular misconceptions about the industry, and how, if at all it will affect the Future of Work. 
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Story Arc 
+![Story Arc](Story_Arc.jpeg)
 
-Text here...
+## Initial sketches
+
+![Sketch 1](S_1.jpeg)
+![Sketch 2](S_2.jpeg)
+![Sketch 3](S_3.jpeg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+In this project, I use data from various public sources to track and visualize the multi-faceted growth of AI. Almost all of my data is published by Artificial Intelligence Communities around the world , which are verified by their respective governments. Therefore, I do not expect any issues with data integrity. 
+
+Below is a list (ideally comprehensive) of my data sources, coupled with a brief description of the data.
 
 | Name | URL | Description | Published By |
 |------|-----|-------------|--------|
@@ -33,6 +39,8 @@ Text here...
 |Major Controversies in AI| [Link](https://drive.google.com/file/d/1IpGHqzL47F632Z9Xm_AKYqikLFa0IPnE/view?usp=sharing)|This data contains annual AI related infractions in the world| AIAAIC Repository (2022) via 2023 AI Index Reportvia the AI Index 2023 Annual Report, AI Index Steering Committee, Institute for Human-Centered AI, Stanford University, Stanford, CA, April 2023
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+For my final project, I will be using Shorthand to narrate a story around the growth and development of AI. This narrative is meant to demistify the trajectory for the layman, and seeks to educate anyone who wants to understand what the new buzzword of the 21st century means, and what the magnitude of it's development has been - especially in the last 20 years. 
+
+I plan to follow my outline closely, and incorporate various elements of visual design that I have learnt in the Telling Sotries with Data class to inform and better my analyses. 
+
