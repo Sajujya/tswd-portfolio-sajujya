@@ -1,4 +1,4 @@
-| [Home Page](https://sajujya.github.io/tswd-portfolio-sajujya/) | [Visualizing Debt](visualizing-government-debt) | [U.S. Government Budget Analysis](critique_by_design) | [AI: Scaling Up Faster Than a Viral TikTok Trend!](final-project-part-one)
+| [Home Page](https://sajujya.github.io/tswd-portfolio-sajujya/) | [Visualizing Debt](visualizing-government-debt) | [U.S. Government Budget Analysis](critique_by_design) | [AI: Outgrowing Your Expectations Faster Than a Kardashian Breakup!](final-project-part-one)
 
 
 <h1 align="center">AI: Outgrowing Your Expectations Faster Than a Kardashian Breakup!</h1>
