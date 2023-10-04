@@ -40,7 +40,7 @@ For this assignment, I critiqued the visualization created by the White House in
 ## Final Project Part I: [AI: Outgrowing Your Expectations Faster Than a Kardashian Breakup!](final-project-part-one)
 Greetings, I am the architect behind this comprehensive data visualization endeavor, meticulously designed to elucidate the remarkable growth and maturation of Artificial Intelligence throughout the 21st century. My deep-seated passion for AI and data analytics has led to the creation of this project, wherein I've diligently curated and transformed complex data into a visually compelling narrative. Embark with me on an intellectual voyage that chronicles the ascendancy of AI, from its nascent stages to its current stature as a transformative force in the technological landscape. Join me in unveiling the captivating world of AI through the lens of this project!
 
-## Final Project Part II: Balancing Progress and Principles: [Navigating the AI Evolution with an Ethical Compass]final-project-part-two)
+## Final Project Part II: Balancing Progress and Principles: [Navigating the AI Evolution with an Ethical Compass](final-project-part-two)
 In this second part, I have created most of the visualizations I aim to use and have used them to create a compelling storyboard using ShortHand. This part has focused primarily on identifying a target audience and catering my story to bring out elements of persuation. 
 
 
