@@ -26,7 +26,7 @@ In targeting this audience, I aim to engage with their existing knowledge and co
 
 ### Interview script
 
-For my interviews, I 
+For my interviews, I tried to identify the overall first impression of my storyboard, whether the target audience is able to identify the core message, whether the visual elements work in cohesion, and whether the story as a whole makes sense. 
 
 | Goal | Questions to Ask |
 |------|------------------|
