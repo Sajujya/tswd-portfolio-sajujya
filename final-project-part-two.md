@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique_by_design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | 
+| [Home Page](https://sajujya.github.io/tswd-portfolio-sajujya/) | [Visualizing Debt](visualizing-government-debt) | [U.S. Government Budget Analysis](critique_by_design) | [AI: Outgrowing Your Expectations Faster Than a Kardashian Breakup!](final-project-part-one) | [Final Project Part II](final-project-part-two) | 
 
 # Balancing Progress and Principles: Navigating the AI Evolution with an Ethical Compass
 
