@@ -43,7 +43,7 @@ Greetings, I am the architect behind this comprehensive data visualization endea
 ## Final Project Part II: [Balancing Progress and Principles: Navigating the AI Evolution with an Ethical Compass](final-project-part-two)
 In this second part, I have created most of the visualizations I aim to use and have used them to create a compelling storyboard using ShortHand. This part has focused primarily on identifying a target audience and catering my story to bring out elements of persuation.
 
-## Final Project Part III: [Balancing Progress and Principles: Navigating the AI Evolution with an Ethical Compass](final-project-part-two)
+## Final Project Part III: [Balancing Progress and Principles: Navigating the AI Evolution with an Ethical Compass](final-project-part-three)
 In this third and final part of the project, I have added changes that were suggested to me during the user research. Additionally, I have added sources and edits to my visualizations along with adding some connecting slides.  
 
 
