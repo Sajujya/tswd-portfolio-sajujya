@@ -1,4 +1,4 @@
-| [Home Page](https://sajujya.github.io/tswd-portfolio-sajujya/) | [Visualizing Debt](visualizing-government-debt) | [U.S. Government Budget Analysis](critique_by_design)
+| [Home Page](https://sajujya.github.io/tswd-portfolio-sajujya/) | [Visualizing Debt](visualizing-government-debt) | [U.S. Government Budget Analysis](critique_by_design) | [AI: Outgrowing Your Expectations Faster Than a Kardashian Breakup!](final-project-part-one) | [Final Project Part II](final-project-part-two) | [Final Project Part III](final-project-part-three)
 
 ## Crtique by Design
 
