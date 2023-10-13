@@ -1,7 +1,9 @@
 | [Home Page](https://sajujya.github.io/tswd-portfolio-sajujya/) | [Visualizing Debt](visualizing-government-debt) | [U.S. Government Budget Analysis](critique_by_design) | [AI: Outgrowing Your Expectations Faster Than a Kardashian Breakup!](final-project-part-one) | [Final Project Part II](final-project-part-two) | [Final Project Part III](final-project-part-three)
 
 # The Final Data Story
-https://carnegiemellon.shorthandstories.com/sajujya_final_project/index.html
+You can find my final data story here! 
+
+[Balancing Progress and Principles: Navigating the AI Evolution with an Ethical Compass](https://carnegiemellon.shorthandstories.com/sajujya_final_project/index.html)
 
 # Changes made since Part II
 
