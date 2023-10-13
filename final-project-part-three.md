@@ -33,16 +33,17 @@ After this identification, I could add in information that may feel a little abs
 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+1. During my user research, specifically for the question, _Does the wireframe and storyboard flow logically from one section to the next?_, I got feedback that revolved around adding some more pages to make the transition from one section to another easier. Therefore, I added some single line pages in between sections to create a story that the end-user can understand without them needing me to explain it.
 
-Text here!
+2. During my user research, I realized that one of the things people really wanted to see was _how_ unregulated AI practices could actually harm them. To factor this in to my final presentation, I added a section on that. This section currently includes contrversies like the Cambridge Analytica scandal. This section currently serves as a reminder that irresponsible and unregulated growth of AI practices has already crept into academia and industry alike. This also extends to art, where AI generated art is currently under heavy fire, with the main question being whether AI generated art should be considered real art.
 
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+3. Finally, to make my Call to Action more specific, I linked it to an actual petition by Change.org that is collecting signatures to demand an AI Bill of Rights. Even though currently there exists an AI Bill of Rights that establishes guardrails for the development of AI in the US, the current version suffers from uneven progress being made in several industries, the most blatant ones being education and healthcare. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+_Navigating the AI Revolution with an Ethical Compass_ was a truly transformative journey that opened my eyes to the intricacies of AI and the profound impact it has on our society. Additionally, Telling Stories with Data equipped me with valuable skills in data analysis, visualization, and storytelling. All of our class exercises, and the assignments from the Good Charts workbook in a way culminated into my final project and allowed me to explore the ethical dimensions of AI, a topic of immense importance in our rapidly evolving technological landscape.
 
-Text here!
+The User research and interviews played a pivotal role in this project, enabling me to gain deep insights into people's concerns and perspectives about AI. Engaging with individuals from various backgrounds allowed me to appreciate the nuanced ways in which AI is shaping our lives, both positively and negatively. Furthermore, the feedback I received opened my eyes to the fact that there are often several interpretations of the same graphics, visualizations and text. 
+
+Through this project, I learned the power of data-driven storytelling in conveying complex ethical issues. It highlighted the need for transparency, accountability, and responsible AI development. Navigating this landscape required not only technical expertise but also a strong ethical foundation to guide AI's evolution. 
+
+Finally, this project reaffirmed my commitment to championing ethical AI and helped me understand the importance of bridging the gap between technology and humanity. It was an enriching experience that inspired me to continue exploring and advocating for the responsible use of AI in our society. In a world increasingly defined by data and AI, this project underscored the importance of not just navigating but _charting_ our course with an ethical compass.
